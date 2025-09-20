@@ -1,0 +1,14 @@
+{
+  "name": "baileys-single-bot",
+  "version": "1.0.0",
+  "description": "Bot Untuk Pribadi",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "axios": "^1.7.2",
+    "pino": "^9.10.0"
+  }
+}
